@@ -1,3 +1,3 @@
 module.exports = {
-    mongoURI : 'mongodb://vinson:vinson123@ds127771.mlab.com:27771/students_game'
+    mongoURI : 'mongodb://userName:Password@ds127771.mlab.com:27771/students_game' //replace with your username and password
 }
